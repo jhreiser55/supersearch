@@ -9,7 +9,7 @@ class Home extends React.Component {
   render() {
     return (
      
-      <div style={{ margin: "auto auto", width: "1000px", textAlign: "center", border: "2px dotted black" }}>
+      <div style={{ margin: "auto auto", width: "1000px", textAlign: "center", border: "20px dotted black" }}>
          
          <body>
             <Header />
